@@ -1,6 +1,20 @@
 # ExtraaLearn-Lead-Conversion-Predictor
+### The Project for MIT Applied Data Science Program
 
 A machine learning project to predict lead conversion probability for an EdTech startup using customer interaction data and behavioral patterns.
+
+---
+
+## 🏷️ Keywords & Topics
+
+**Primary Keywords:** Data Science • Machine Learning • Lead Conversion • Python • EdTech Analytics  
+**Technical Stack:** Pandas • Scikit-Learn • Random Forest • Decision Trees • Data Visualization • Jupyter Notebook  
+**Business Focus:** Lead Scoring • Conversion Optimization • Customer Analytics • Sales Intelligence • Predictive Modeling  
+**Industry:** EdTech • Online Education • Lead Generation • Customer Acquisition • Business Intelligence  
+
+**Project Type:** Business Analytics & Machine Learning | Industry: EdTech | Focus: Lead Conversion & Sales Optimization
+
+---
 
 ## 🎯 Project Overview
 
@@ -12,14 +26,19 @@ This project develops a predictive model to help ExtraaLearn identify which lead
 - 🔍 **4,612 leads** analyzed across 15 features
 - 💡 **Clear conversion patterns** identified for business strategy
 
+---
+
 ## 📁 Repository Structure
 
 ```
-├── README.md                           # Project overview and setup guide
-├── PROJECT_DESCRIPTION.md              # Detailed project documentation
-├── ExtraaLearn.csv                     # Dataset with lead information
-└── extraalearn_lead_conversion_prediction.ipynb # Complete analysis notebook
+├── extraalearn_lead_conversion_prediction_v1.ipynb    # Complete analysis and model implementation notebook
+├── ExtraaLearn.csv                                    # Lead dataset (4.6k records, 15 features)
+├── PROJECT_DESCRIPTION.md                             # Detailed project documentation, business context & data dictionary
+├── README.md                                          # Project overview and setup guide
+└── LICENSE                                            # Project license information
 ```
+
+---
 
 ## 🚀 Quick Start
 
@@ -39,6 +58,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 2. Open `extraalearn_lead_conversion_prediction.ipynb`
 3. Run all cells to reproduce the analysis
 
+---
+
 ## 📊 Dataset Overview
 
 **Source:** ExtraaLearn lead interaction data  
@@ -50,6 +71,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Behavior:** Website visits, time spent, page views
 - **Interactions:** First contact method, last activity
 - **Marketing:** Print media, digital media, referrals
+
+---
 
 ## 🔬 Methodology
 
@@ -68,6 +91,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Secondary Metrics:** Precision, F1-score, Accuracy
 - Train/test split for unbiased evaluation
 
+---
+
 ## 📈 Key Findings
 
 ### Top Conversion Predictors:
@@ -84,6 +109,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - 📝 **Complete profiles** strongly correlate with conversion
 - 🎂 **Age 45-55** demographic shows peak conversion rates
 
+---
+
 ## 💼 Business Impact
 
 ### Recommendations:
@@ -98,6 +125,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - 📈 **Improved conversion rates**
 - 🎯 **Better resource allocation**
 - ⚡ **Faster lead qualification process**
+
+---
 
 ## 🛠️ Technical Details
 
@@ -116,6 +145,8 @@ Random Forest Classifier (Tuned)
 - **Scikit-learn** - Machine learning algorithms
 - **Matplotlib/Seaborn** - Data visualization
 - **Jupyter Notebook** - Interactive development environment
+
+---
 
 ## 📋 Usage Examples
 
@@ -143,11 +174,15 @@ rf_model.fit(X_train, y_train)
 predictions = rf_model.predict(X_test)
 ```
 
+---
+
 ## 📚 Documentation
 
 - **[PROJECT_DESCRIPTION.md](PROJECT_DESCRIPTION.md)** - Comprehensive project documentation
 - **Jupyter Notebook** - Step-by-step analysis with code and visualizations
 - **HTML Report** - Static version of the analysis for easy viewing
+
+---
 
 ## 🤝 Contributing
 
@@ -157,21 +192,25 @@ This is an educational project completed as part of the MIT Applied Data Science
 2. Fork the repository for experimentation
 3. Follow standard data science best practices
 
-## 📄 License
+---
 
-This project is for educational purposes as part of the Great Learning curriculum.
 
-## 👨‍💻 Author
+## 👨‍💻 Author  
+**Sandesh S. Badwaik**  
+*Data Scientist & Machine Learning Engineer*
 
-**Sandesh Badwaik**  
-Project for MIT Applied Data Science Program  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbadwaik/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesha21)
 
 ---
 
-## 🔗 Quick Links
+##  Quick Links
 
 - [📊 View Analysis Notebook](extraalearn_lead_conversion_prediction.ipynb)
 - [📋 Detailed Documentation](PROJECT_DESCRIPTION.md)
 - [📈 Dataset](ExtraaLearn.csv)
 
-**⭐ Star this repository if you found it helpful!**
+---
+
+🌟 **If you found this project helpful, please give it a ⭐!**
+
