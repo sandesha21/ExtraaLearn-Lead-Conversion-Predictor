@@ -1,4 +1,22 @@
 # ExtraaLearn-Lead-Conversion-Predictor
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Lead%20Conversion-green?style=for-the-badge)
+![Industry](https://img.shields.io/badge/Industry-EdTech-purple?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+
+![Accuracy](https://img.shields.io/badge/Accuracy-85%25-success?style=for-the-badge)
+![Recall](https://img.shields.io/badge/Recall-85%25-success?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Dataset-4.6k%20Records-blue?style=for-the-badge)
+![Features](https://img.shields.io/badge/Features-15-blue?style=for-the-badge)
+
+## 📊 ExtraaLearn Lead Conversion Predictor
 ### The Project for MIT Applied Data Science Program
 
 A machine learning project to predict lead conversion probability for an EdTech startup using customer interaction data and behavioral patterns.
@@ -13,6 +31,15 @@ A machine learning project to predict lead conversion probability for an EdTech 
 **Industry:** EdTech • Online Education • Lead Generation • Customer Acquisition • Business Intelligence  
 
 **Project Type:** Business Analytics & Machine Learning | Industry: EdTech | Focus: Lead Conversion & Sales Optimization
+
+---
+
+## 🎯 Problem Statement & Business Context
+
+**Problem Statement:** How can we predict which leads will convert to paid customers to optimize marketing spend and sales efforts?
+
+**Business Context:** 
+ExtraaLearn, an EdTech startup, needs to optimize their lead conversion process. With limited marketing budget and sales resources, they must identify high-value leads that are most likely to convert to paid customers. This predictive model helps prioritize sales efforts and allocate resources effectively.
 
 ---
 
@@ -194,6 +221,10 @@ This is an educational project completed as part of the MIT Applied Data Science
 
 ---
 
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## 👨‍💻 Author  
 **Sandesh S. Badwaik**  
@@ -204,13 +235,4 @@ This is an educational project completed as part of the MIT Applied Data Science
 
 ---
 
-##  Quick Links
-
-- [📊 View Analysis Notebook](extraalearn_lead_conversion_prediction.ipynb)
-- [📋 Detailed Documentation](PROJECT_DESCRIPTION.md)
-- [📈 Dataset](ExtraaLearn.csv)
-
----
-
 🌟 **If you found this project helpful, please give it a ⭐!**
-
