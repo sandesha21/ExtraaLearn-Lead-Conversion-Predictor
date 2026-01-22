@@ -59,6 +59,7 @@ This project develops a predictive model to help ExtraaLearn identify which lead
 
 ```
 ├── extraalearn_lead_conversion_prediction_v1.ipynb    # Complete analysis and model implementation notebook
+├── extraalearn_lead_conversion_prediction_v2.ipynb    # Advanced analysis with enhanced EDA, feature engineering & business insights
 ├── ExtraaLearn.csv                                    # Lead dataset (4.6k records, 15 features)
 ├── PROJECT_DESCRIPTION.md                             # Detailed project documentation, business context & data dictionary
 ├── README.md                                          # Project overview and setup guide
